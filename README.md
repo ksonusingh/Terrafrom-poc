@@ -1,1 +1,1 @@
-# Terrafrom-poc - THis is my first code fo craeting Azure Windows VM
+# Terrafrom-poc - This is my first code fo creating Azure Windows VM
